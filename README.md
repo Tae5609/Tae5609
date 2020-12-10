@@ -22,7 +22,7 @@
 - E-MAIL : taetae5609@gmail.com
 - DISCORD : ᴛᴀᴇ5609シ#2855
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tae5609" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tae5609&theme=dark" />
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tae5609&show_icons=true&theme=radical)
 
 <!--
