@@ -6,12 +6,12 @@
 ⚡ Fun fact: I'm coding about 1-2 hour a day.
 
 #### SKILL
-<img src="https://www.hellomyweb.com/media/course/html.png.500x500_q85_crop.png" width="20px"> HTML <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="20px"> CSS <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="20px"> PHP <br>
-<img src="https://www.python.org/static/opengraph-icon-200x200.png" width="20px"> PYTHON <br>
-<img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" width="20px"> SQL <br>
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="20px"> JAVASCRIPT <br>
+<img src="https://www.hellomyweb.com/media/course/html.png.500x500_q85_crop.png" width="20px"> HTML <br><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="20px"> CSS <br><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="20px"> PHP <br><br>
+<img src="https://www.python.org/static/opengraph-icon-200x200.png" width="20px"> PYTHON <br><br>
+<img src="https://icons-for-free.com/iconfiles/png/512/file+sql+icon-1320183612970878250.png" width="20px"> SQL <br><br>
+<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="20px"> JAVASCRIPT <br><br>
 <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="20px"> TYPESCRIPT <br>
 
 <!--
