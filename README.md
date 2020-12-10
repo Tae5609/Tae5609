@@ -1,7 +1,7 @@
 ### Tae5609
 ##### Discord Bot Developer, Front End
 
-🌱 I’m currently learning JavaScript, HTML, CSS
+🌱 I’m currently learning JavaScript, HTML, CSS <br>
 ⚡ Fun fact: I'm coding about 1-2 hour a day.
 
 <!--
