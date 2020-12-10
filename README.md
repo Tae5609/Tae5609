@@ -6,6 +6,7 @@
 ⚡ Fun fact: I'm coding about 1-2 hour a day.
 
 #### SKILL
+<img src="https://www.hellomyweb.com/media/course/html.png.500x500_q85_crop.png" width="30px"> HTML <br>
 ![alt text](https://www.hellomyweb.com/media/course/html.png.500x500_q85_crop.png "HTML") HTML <br>
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png "CSS") CSS <br>
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg "PHP") PHP <br>
