@@ -5,8 +5,6 @@
 🌱 I’m currently learning JavaScript, HTML, CSS <br>
 ⚡ Fun fact: I'm coding about 1-2 hour a day.
 
-<br>
-<br>
 #### SKILL
 <img src="https://www.hellomyweb.com/media/course/html.png.500x500_q85_crop.png" width="20px"> HTML <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="20px"> CSS <br>
@@ -16,8 +14,6 @@
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="20px"> JAVASCRIPT <br>
 <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="20px"> TYPESCRIPT <br>
 
-<br>
-<br>
 #### CONTACT
 - E-MAIL : taetae5609@gmail.com <br>
 - DISCORD : ᴛᴀᴇ5609シ#2855 <br>
