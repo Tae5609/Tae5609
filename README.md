@@ -1,5 +1,5 @@
 ### Tae5609
-##### Discord Bot Developer, Front End
+##### Discord Bot Developer, Back-End
 <hr />
 
 🌱 I’m currently learning JavaScript, HTML, CSS <br>
